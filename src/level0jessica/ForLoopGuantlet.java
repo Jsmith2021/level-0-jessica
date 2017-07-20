@@ -93,9 +93,10 @@ public class ForLoopGuantlet {
 		//System.out.println(20);
 		//System.out.println(21);
 		//System.out.println(22);
-		System.out.println(123);
-		System.out.println(456);
-		System.out.println(789);
+		//System.out.println(123);
+		//System.out.println(456);
+		//System.out.println(789);
+		
 		}
 		}
 		
