@@ -85,7 +85,7 @@ public class ForLoopGuantlet {
 
 		//}
 		//System.out.println(00);
-		//.out.println(01);
+		//System.out.println(01);
 		//System.out.println(02);
 		//System.out.println(10);
 		//System.out.println(11);
@@ -97,10 +97,24 @@ public class ForLoopGuantlet {
 		//System.out.println(456);
 		//System.out.println(789);
 		
+		//for(int i=1; i<=100; i+=10){
+			//System.out.println("");
+		//for(int a=i; a<i+10; a++){
+		//System.out.print(a+"\t");
+		
+		
+		//}
+		//}
+		for(int i=1; i<=6; i+=1){
+			System.out.println("*");
+			for(int a=1; a<i+1; a++)
+				System.out.print("*"+"\t");
+		}
 		}
 		}
 		
-		
+
+	
 		
 		
 
