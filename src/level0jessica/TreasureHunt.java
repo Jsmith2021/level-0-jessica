@@ -62,7 +62,7 @@ System.out.println(tortoiseLocationY);
 			// 6. If tortoise is at same location as the little girl,
 			// 			make a pop-up tell the Tortoise where to go next
 if(tortoiseLocationX >500 &&tortoiseLocationY<290){
-	if(tortoiseLocationX<510&&tortoiseLocationY>300)
+	if(tortoiseLocationY<510&&tortoiseLocationY>300)
 	JOptionPane.showMessageDialog(null, "Go to the skull");
 }
 			// 7. Give the user subsequent clues at different locations on the image
