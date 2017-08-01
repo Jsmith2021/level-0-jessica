@@ -73,7 +73,7 @@ import javax.swing.JOptionPane;
 			// the default package. It must be a .wav file. 
 			// There are lots on freesound.org
 			// 6. Use the playSound method to play your sound
-playSound();
+playSound("323703__reitanna__funny-yay.wav");
 
 		}
 
